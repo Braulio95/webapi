@@ -6,7 +6,8 @@ const options = {
 	method: 'GET',
 	headers: {
 		'X-RapidAPI-Key': '67e607ee61msh6e78173358cf1d7p1ece02jsn648bfb41964b',
-		'X-RapidAPI-Host': 'instagram-scraper-2022.p.rapidapi.com'
+		'X-RapidAPI-Host': 'instagram-scraper-2022.p.rapidapi.com',
+        'Access-Control-Allow-Origin': '*'
 	}
 };
 
